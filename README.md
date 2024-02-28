@@ -1,7 +1,7 @@
 # Sequence Time Series - Deep Learning AI Course
 
 
-This repo contains laboratories and homeworks from the course **[Sequences, Time Series and Prediction](https://www.coursera.org/specializations/tensorflow-in-practice)** from [deeplearning.ai](https://deeplearning.ai/)
+This repo contains laboratories and assignements from the course **[Sequences, Time Series and Prediction](https://www.coursera.org/specializations/tensorflow-in-practice)** offered by [deeplearning.ai](https://deeplearning.ai/)
 
 ## Week 1
 
